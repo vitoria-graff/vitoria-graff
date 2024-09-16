@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vitória Graff 
 
-<!--
-**vitoria-graff/vitoria-graff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** at **PUCRS** (2023-2027)  
+💻 Passionate about coding, technology, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+- **Languages:** Java, Python, JavaScript, TypeScript
+- **Backend:** Node.js, NestJS
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, Docker, Linux
+- **Databases:** SQL, Postgress
+- **Others:** Agile Methodologies, Problem-solving, Team Collaboration
